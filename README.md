@@ -376,7 +376,7 @@
 
   <nav class="navbar">
     <div class="container nav-content">
-      <div class="logo">Akhila.</div>
+      <div class="logo">Akhila Portfolio</div>
       <div class="nav-links">
         <a href="#about">About</a>
         <a href="#skills">Skills</a>
